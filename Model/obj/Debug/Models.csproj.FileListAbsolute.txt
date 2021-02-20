@@ -1,0 +1,14 @@
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\MonolithicApp\Model\bin\Debug\Models.dll
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\MonolithicApp\Model\bin\Debug\Models.pdb
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\MonolithicApp\Model\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\MonolithicApp\Model\obj\Debug\Models.dll
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\MonolithicApp\Model\obj\Debug\Models.pdb
+C:\Tfs.Cloud\MyCourses\MvvmApp\Model\bin\Debug\Models.dll
+C:\Tfs.Cloud\MyCourses\MvvmApp\Model\bin\Debug\Models.pdb
+C:\Tfs.Cloud\MyCourses\MvvmApp\Model\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Tfs.Cloud\MyCourses\MvvmApp\Model\obj\Debug\Models.dll
+C:\Tfs.Cloud\MyCourses\MvvmApp\Model\obj\Debug\Models.pdb
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\Model\bin\Debug\Models.dll
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\Model\bin\Debug\Models.pdb
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\Model\obj\Debug\Models.dll
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\Model\obj\Debug\Models.pdb

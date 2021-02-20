@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Model\Models.csproj", "{9EE87398-E96B-48E0-B793-0316EEBDFD36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvvmFramework", "MvvmFramework\MvvmFramework.csproj", "{758A4E4D-0C34-4870-8007-419CD0BDC724}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModels", "ViewModels\ViewModels.csproj", "{4CA13119-5333-4EB4-AD36-6B5ADCFA2FAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{9EE87398-E96B-48E0-B793-0316EEBDFD36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EE87398-E96B-48E0-B793-0316EEBDFD36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EE87398-E96B-48E0-B793-0316EEBDFD36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{758A4E4D-0C34-4870-8007-419CD0BDC724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{758A4E4D-0C34-4870-8007-419CD0BDC724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{758A4E4D-0C34-4870-8007-419CD0BDC724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{758A4E4D-0C34-4870-8007-419CD0BDC724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CA13119-5333-4EB4-AD36-6B5ADCFA2FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA13119-5333-4EB4-AD36-6B5ADCFA2FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA13119-5333-4EB4-AD36-6B5ADCFA2FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA13119-5333-4EB4-AD36-6B5ADCFA2FAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

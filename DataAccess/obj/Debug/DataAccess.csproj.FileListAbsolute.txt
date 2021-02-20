@@ -1,0 +1,32 @@
+c:\users\engineerspock\documents\visual studio 2015\Projects\MvvmEssentials\DataAccess\bin\Debug\DataAccess.dll
+c:\users\engineerspock\documents\visual studio 2015\Projects\MvvmEssentials\DataAccess\bin\Debug\DataAccess.pdb
+c:\users\engineerspock\documents\visual studio 2015\Projects\MvvmEssentials\DataAccess\bin\Debug\Model.dll
+c:\users\engineerspock\documents\visual studio 2015\Projects\MvvmEssentials\DataAccess\bin\Debug\Model.pdb
+c:\users\engineerspock\documents\visual studio 2015\Projects\MvvmEssentials\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+c:\users\engineerspock\documents\visual studio 2015\Projects\MvvmEssentials\DataAccess\obj\Debug\DataAccess.dll
+c:\users\engineerspock\documents\visual studio 2015\Projects\MvvmEssentials\DataAccess\obj\Debug\DataAccess.pdb
+c:\users\engineerspock\documents\visual studio 2015\Projects\MvvmEssentials\DataAccess\bin\Debug\StudentsRepo.xml
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\MonolithicApp\DataAccess\bin\Debug\StudentsRepo.xml
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\MonolithicApp\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\MonolithicApp\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\MonolithicApp\DataAccess\bin\Debug\Models.dll
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\MonolithicApp\DataAccess\bin\Debug\Models.pdb
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\MonolithicApp\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\MonolithicApp\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\MonolithicApp\DataAccess\obj\Debug\DataAccess.pdb
+C:\Tfs.Cloud\MyCourses\MvvmApp\DataAccess\bin\Debug\StudentsRepo.xml
+C:\Tfs.Cloud\MyCourses\MvvmApp\DataAccess\bin\Debug\DataAccess.dll
+C:\Tfs.Cloud\MyCourses\MvvmApp\DataAccess\bin\Debug\DataAccess.pdb
+C:\Tfs.Cloud\MyCourses\MvvmApp\DataAccess\bin\Debug\Models.dll
+C:\Tfs.Cloud\MyCourses\MvvmApp\DataAccess\bin\Debug\Models.pdb
+C:\Tfs.Cloud\MyCourses\MvvmApp\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Tfs.Cloud\MyCourses\MvvmApp\DataAccess\obj\Debug\DataAccess.dll
+C:\Tfs.Cloud\MyCourses\MvvmApp\DataAccess\obj\Debug\DataAccess.pdb
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\DataAccess\bin\Debug\StudentsRepo.xml
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\DataAccess\bin\Debug\DataAccess.dll
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\DataAccess\bin\Debug\DataAccess.pdb
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\DataAccess\bin\Debug\Models.dll
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\DataAccess\bin\Debug\Models.pdb
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\DataAccess\obj\Debug\DataAccess.dll
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\DataAccess\obj\Debug\DataAccess.pdb

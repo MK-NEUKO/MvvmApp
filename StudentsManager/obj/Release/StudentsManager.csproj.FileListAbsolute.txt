@@ -1,0 +1,45 @@
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\bin\Release\StudentsManager.exe.config
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\bin\Release\StudentsManager.exe
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\bin\Release\StudentsManager.pdb
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\bin\Release\Models.dll
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\bin\Release\ViewModels.dll
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\bin\Release\DataAccess.dll
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\bin\Release\Models.pdb
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\bin\Release\ViewModels.pdb
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\bin\Release\DataAccess.pdb
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\obj\Release\StudentsManager.csprojResolveAssemblyReference.cache
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\obj\Release\MainView.baml
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\obj\Release\MainView.g.cs
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\obj\Release\App.g.cs
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\obj\Release\StudentsManager_MarkupCompile.cache
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\obj\Release\StudentsManager.g.resources
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\obj\Release\StudentsManager.Views.Properties.Resources.resources
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\obj\Release\StudentsManager.csproj.GenerateResource.Cache
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\obj\Release\StudentsManager.exe
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\obj\Release\StudentsManager.pdb
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\bin\Release\StudentsRepo.xml
+F:\OneDrive\Documents\Udemy-Course\MVVM - Fundamentals\Sources\02-Connecting Views and ViewModels\StarightforwardApproach\MvvmApp\StudentsManager\bin\Release\StudentsManager.exe.config
+F:\OneDrive\Documents\Udemy-Course\MVVM - Fundamentals\Sources\02-Connecting Views and ViewModels\StarightforwardApproach\MvvmApp\StudentsManager\obj\Release\StudentsManager.exe
+F:\OneDrive\Documents\Udemy-Course\MVVM - Fundamentals\Sources\02-Connecting Views and ViewModels\StarightforwardApproach\MvvmApp\StudentsManager\obj\Release\StudentsManager.pdb
+E:\SoftwareProjects\MvvmApp\StudentsManager\bin\Release\StudentsRepo.xml
+E:\SoftwareProjects\MvvmApp\StudentsManager\bin\Release\StudentsManager.exe.config
+E:\SoftwareProjects\MvvmApp\StudentsManager\bin\Release\StudentsManager.exe
+E:\SoftwareProjects\MvvmApp\StudentsManager\bin\Release\StudentsManager.pdb
+E:\SoftwareProjects\MvvmApp\StudentsManager\bin\Release\DataAccess.dll
+E:\SoftwareProjects\MvvmApp\StudentsManager\bin\Release\Models.dll
+E:\SoftwareProjects\MvvmApp\StudentsManager\bin\Release\ViewModels.dll
+E:\SoftwareProjects\MvvmApp\StudentsManager\bin\Release\DataAccess.pdb
+E:\SoftwareProjects\MvvmApp\StudentsManager\bin\Release\Models.pdb
+E:\SoftwareProjects\MvvmApp\StudentsManager\bin\Release\ViewModels.pdb
+E:\SoftwareProjects\MvvmApp\StudentsManager\obj\Release\StudentsManager.csprojAssemblyReference.cache
+E:\SoftwareProjects\MvvmApp\StudentsManager\obj\Release\MainView.baml
+E:\SoftwareProjects\MvvmApp\StudentsManager\obj\Release\MainView.g.cs
+E:\SoftwareProjects\MvvmApp\StudentsManager\obj\Release\App.g.cs
+E:\SoftwareProjects\MvvmApp\StudentsManager\obj\Release\StudentsManager_MarkupCompile.cache
+E:\SoftwareProjects\MvvmApp\StudentsManager\obj\Release\StudentsManager.g.resources
+E:\SoftwareProjects\MvvmApp\StudentsManager\obj\Release\StudentsManager.Views.Properties.Resources.resources
+E:\SoftwareProjects\MvvmApp\StudentsManager\obj\Release\StudentsManager.csproj.GenerateResource.cache
+E:\SoftwareProjects\MvvmApp\StudentsManager\obj\Release\StudentsManager.csproj.CoreCompileInputs.cache
+E:\SoftwareProjects\MvvmApp\StudentsManager\obj\Release\StudentsManager.csproj.CopyComplete
+E:\SoftwareProjects\MvvmApp\StudentsManager\obj\Release\StudentsManager.exe
+E:\SoftwareProjects\MvvmApp\StudentsManager\obj\Release\StudentsManager.pdb

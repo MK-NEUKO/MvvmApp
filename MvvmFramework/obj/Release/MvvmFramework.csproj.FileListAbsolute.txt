@@ -1,0 +1,4 @@
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\MvvmFramework\bin\Release\MvvmFramework.dll
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\MvvmFramework\bin\Release\MvvmFramework.pdb
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\MvvmFramework\obj\Release\MvvmFramework.dll
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\MvvmFramework\obj\Release\MvvmFramework.pdb

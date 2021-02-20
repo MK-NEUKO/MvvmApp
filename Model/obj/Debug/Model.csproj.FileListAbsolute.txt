@@ -1,0 +1,5 @@
+c:\users\engineerspock\documents\visual studio 2015\Projects\MvvmEssentials\Model\bin\Debug\Model.dll
+c:\users\engineerspock\documents\visual studio 2015\Projects\MvvmEssentials\Model\bin\Debug\Model.pdb
+c:\users\engineerspock\documents\visual studio 2015\Projects\MvvmEssentials\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\users\engineerspock\documents\visual studio 2015\Projects\MvvmEssentials\Model\obj\Debug\Model.dll
+c:\users\engineerspock\documents\visual studio 2015\Projects\MvvmEssentials\Model\obj\Debug\Model.pdb

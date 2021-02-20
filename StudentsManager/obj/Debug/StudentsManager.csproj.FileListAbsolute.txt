@@ -1,0 +1,35 @@
+c:\Users\engineerspock\documents\visual studio 2015\Projects\MvvmApp\StudentsManager\bin\Debug\StudentsManager.exe.config
+C:\Tfs.Cloud\MyCourses\MvvmApp\StudentsManager\bin\Debug\StudentsManager.exe.config
+C:\Tfs.Cloud\MyCourses\MvvmApp\StudentsManager\obj\Debug\StudentsManager.csprojResolveAssemblyReference.cache
+C:\Tfs.Cloud\MyCourses\MvvmApp\StudentsManager\obj\Debug\App.g.cs
+C:\Tfs.Cloud\MyCourses\MvvmApp\StudentsManager\obj\Debug\StudentsManager_MarkupCompile.cache
+C:\Tfs.Cloud\MyCourses\MvvmApp\StudentsManager\obj\Debug\MainWindow.baml
+C:\Tfs.Cloud\MyCourses\MvvmApp\StudentsManager\obj\Debug\MainWindow.g.cs
+C:\Tfs.Cloud\MyCourses\MvvmApp\StudentsManager\obj\Debug\StudentsManager.g.resources
+C:\Tfs.Cloud\MyCourses\MvvmApp\StudentsManager\obj\Debug\StudentsManager.Properties.Resources.resources
+C:\Tfs.Cloud\MyCourses\MvvmApp\StudentsManager\obj\Debug\StudentsManager.csproj.GenerateResource.Cache
+C:\Tfs.Cloud\MyCourses\MvvmApp\StudentsManager\bin\Debug\StudentsManager.exe
+C:\Tfs.Cloud\MyCourses\MvvmApp\StudentsManager\bin\Debug\StudentsManager.pdb
+C:\Tfs.Cloud\MyCourses\MvvmApp\StudentsManager\bin\Debug\Models.dll
+C:\Tfs.Cloud\MyCourses\MvvmApp\StudentsManager\bin\Debug\Models.pdb
+C:\Tfs.Cloud\MyCourses\MvvmApp\StudentsManager\obj\Debug\StudentsManager.exe
+C:\Tfs.Cloud\MyCourses\MvvmApp\StudentsManager\obj\Debug\StudentsManager.pdb
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\bin\Debug\StudentsManager.exe.config
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\bin\Debug\StudentsManager.exe
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\bin\Debug\StudentsManager.pdb
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\bin\Debug\Models.dll
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\bin\Debug\ViewModels.dll
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\bin\Debug\DataAccess.dll
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\bin\Debug\Models.pdb
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\bin\Debug\ViewModels.pdb
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\bin\Debug\DataAccess.pdb
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\obj\Debug\StudentsManager.csprojResolveAssemblyReference.cache
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\obj\Debug\MainView.baml
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\obj\Debug\MainView.g.cs
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\obj\Debug\App.g.cs
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\obj\Debug\StudentsManager_MarkupCompile.cache
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\obj\Debug\StudentsManager.g.resources
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\obj\Debug\StudentsManager.Views.Properties.Resources.resources
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\obj\Debug\StudentsManager.csproj.GenerateResource.Cache
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\obj\Debug\StudentsManager.exe
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\StudentsManager\obj\Debug\StudentsManager.pdb

@@ -1,0 +1,22 @@
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\ViewModels\bin\Release\StudentsRepo.xml
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\ViewModels\bin\Release\ViewModels.dll
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\ViewModels\bin\Release\ViewModels.pdb
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\ViewModels\bin\Release\DataAccess.dll
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\ViewModels\bin\Release\Models.dll
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\ViewModels\bin\Release\DataAccess.pdb
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\ViewModels\bin\Release\Models.pdb
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\ViewModels\obj\Release\ViewModels.csprojResolveAssemblyReference.cache
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\ViewModels\obj\Release\ViewModels.dll
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\ViewModels\obj\Release\ViewModels.pdb
+E:\SoftwareProjects\MvvmApp\ViewModels\bin\Release\StudentsRepo.xml
+E:\SoftwareProjects\MvvmApp\ViewModels\bin\Release\ViewModels.dll
+E:\SoftwareProjects\MvvmApp\ViewModels\bin\Release\ViewModels.pdb
+E:\SoftwareProjects\MvvmApp\ViewModels\bin\Release\DataAccess.dll
+E:\SoftwareProjects\MvvmApp\ViewModels\bin\Release\Models.dll
+E:\SoftwareProjects\MvvmApp\ViewModels\bin\Release\DataAccess.pdb
+E:\SoftwareProjects\MvvmApp\ViewModels\bin\Release\Models.pdb
+E:\SoftwareProjects\MvvmApp\ViewModels\obj\Release\ViewModels.csprojAssemblyReference.cache
+E:\SoftwareProjects\MvvmApp\ViewModels\obj\Release\ViewModels.csproj.CoreCompileInputs.cache
+E:\SoftwareProjects\MvvmApp\ViewModels\obj\Release\ViewModels.csproj.CopyComplete
+E:\SoftwareProjects\MvvmApp\ViewModels\obj\Release\ViewModels.dll
+E:\SoftwareProjects\MvvmApp\ViewModels\obj\Release\ViewModels.pdb

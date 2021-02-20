@@ -1,0 +1,10 @@
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\Model\bin\Release\Models.dll
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\Model\bin\Release\Models.pdb
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\Model\obj\Release\Models.dll
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\Model\obj\Release\Models.pdb
+E:\SoftwareProjects\MvvmApp\Model\bin\Release\Models.dll
+E:\SoftwareProjects\MvvmApp\Model\bin\Release\Models.pdb
+E:\SoftwareProjects\MvvmApp\Model\obj\Release\Models.csprojAssemblyReference.cache
+E:\SoftwareProjects\MvvmApp\Model\obj\Release\Models.csproj.CoreCompileInputs.cache
+E:\SoftwareProjects\MvvmApp\Model\obj\Release\Models.dll
+E:\SoftwareProjects\MvvmApp\Model\obj\Release\Models.pdb

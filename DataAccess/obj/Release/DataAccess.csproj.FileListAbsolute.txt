@@ -1,0 +1,18 @@
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\DataAccess\bin\Release\StudentsRepo.xml
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\DataAccess\bin\Release\DataAccess.dll
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\DataAccess\bin\Release\DataAccess.pdb
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\DataAccess\bin\Release\Models.dll
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\DataAccess\bin\Release\Models.pdb
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\DataAccess\obj\Release\DataAccess.dll
+C:\Tfs.Cloud\MyCourses\MVVM\02-Connecting Views and ViewModels\StraightforwardApproach\MvvmAppStart\MvvmApp\DataAccess\obj\Release\DataAccess.pdb
+E:\SoftwareProjects\MvvmApp\DataAccess\bin\Release\StudentsRepo.xml
+E:\SoftwareProjects\MvvmApp\DataAccess\bin\Release\DataAccess.dll
+E:\SoftwareProjects\MvvmApp\DataAccess\bin\Release\DataAccess.pdb
+E:\SoftwareProjects\MvvmApp\DataAccess\bin\Release\Models.dll
+E:\SoftwareProjects\MvvmApp\DataAccess\bin\Release\Models.pdb
+E:\SoftwareProjects\MvvmApp\DataAccess\obj\Release\DataAccess.csprojAssemblyReference.cache
+E:\SoftwareProjects\MvvmApp\DataAccess\obj\Release\DataAccess.csproj.CoreCompileInputs.cache
+E:\SoftwareProjects\MvvmApp\DataAccess\obj\Release\DataAccess.csproj.CopyComplete
+E:\SoftwareProjects\MvvmApp\DataAccess\obj\Release\DataAccess.dll
+E:\SoftwareProjects\MvvmApp\DataAccess\obj\Release\DataAccess.pdb
